@@ -1,0 +1,2 @@
+I need to get a code from git repo , 
+install nginx server on my machine and try to deploy
