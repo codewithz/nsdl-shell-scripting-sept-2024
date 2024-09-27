@@ -7,7 +7,7 @@
 
 
 #!/bin/bash
-
+set -eux
 # This function checks if the parameters are numbers and adds them
 function sum_numbers {
   local num1=$1

@@ -1,0 +1,1 @@
+Write a script that attempts to create a directory. If the directory already exists, print a meaningful error message and exit the script.
